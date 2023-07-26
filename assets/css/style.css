@@ -534,7 +534,9 @@
 .pb-95 {
     padding-bottom: 95px;
 }
-
+.justify-content-end{
+    justify-content: end;
+}
 .background {
     background-color: #000;
 }
@@ -619,8 +621,6 @@
     font-weight: 600;
 
 }
-
-
 
 .signbtn {
     padding: 11px 28px;
@@ -723,13 +723,7 @@
     position: relative;
 }
 
-
-
-
-
 /* nav bar responsive */
-
-
 
 @media (max-width:992px) {
     .small_screen {
