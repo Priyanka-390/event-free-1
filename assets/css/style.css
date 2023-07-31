@@ -10,7 +10,7 @@
 
 .ff-p {
     color: #FFF;
-    font-family: 'Poppins',sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -801,7 +801,7 @@
     .pos-fix {
         position: fixed;
         left: 0;
-        right: 0;
+        right: 17px;
         z-index: 2;
     }
 
@@ -980,9 +980,11 @@
         background: white;
         right: 0;
     }
-.pt-md-20{
-    padding-top: 20px;
-}
+
+    .pt-md-20 {
+        padding-top: 20px;
+    }
+
     .pt-lg-0 {
         padding-top: 0;
     }
